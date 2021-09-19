@@ -48,5 +48,27 @@ Elde edilen bu yeni çözüm içinde Ui ve Vj değerleri hesaplanarak sırasıyl
 çözümü elde edinceye kadar devam eder.
 
 Yaptığım projede kullanıcı matris değerlerini yazar. Program Modi algoritması ile optimumluk kontrolünü yapıp sonucunu göstermektedir.
+ 
+  
+Program açılış ekranı:
+ 
+  
+  
 
+![Screenshot_4](https://user-images.githubusercontent.com/36795459/133936991-66fde9c9-e6ee-4a04-83a1-9426988865d1.png)
+ 
+  
+  
+
+![Screenshot_5](https://user-images.githubusercontent.com/36795459/133936983-2ea85dbb-b91c-4bd4-8188-d3aa589110ee.png)
+ 
+  
+   
+![Screenshot_6](https://user-images.githubusercontent.com/36795459/133936984-784fee26-6333-4e0f-8813-050e7eaeb7bd.png)
+ 
+Örnek matris ve sonuç :
+ 
+  
+  
+![Screenshot_7](https://user-images.githubusercontent.com/36795459/133936985-bef6a106-6475-414b-b8d6-7f58b17db389.png)
 
